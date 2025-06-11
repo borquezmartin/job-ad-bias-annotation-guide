@@ -6,7 +6,7 @@ In this section there is the definition of every type of bias of this research.
 
 ## Explicit Gender Bias  {#gender-bias}
 
-### Gender Exclusionary Terms {.unnumbered} {#gender-exclusionary-terms}
+### Gender Exclusionary Terms {.unnumbered #gender-exclusionary-terms}
 
 Exclusionary terms occur when a gender-neutral entity is described using gender-exclusive language. For instance, adding a gender-specific sub-word (e.g., "man") to a gender-neutral occupational term (e.g., "police") results in "policeman." This construction implies that all police officers are men, thereby excluding women. Conversely, appending "woman" to "police" to form "policewoman" suggests that all police officers are women. The use of exclusionary terms has been shown to carry negative societal implications. Sex-biased wording can affect perceptions of a career’s attractiveness (Briere and Lanktree, 1983), and languages with gendered occupational terms have been associated with disproportionate labor force participation (Gay et al., 2013).
 
@@ -24,7 +24,7 @@ Gendered Neologisms are newly coined, gender-specific terms that are emerging in
 Examples: Man-bread, Man-sip, Man-bun, Girlboss, SheEO
 
 
-### Generic Pronouns {.unnumbered} {#generic-pronouns}
+### Generic Pronouns {.unnumbered #generic-pronouns}
 
 Pronouns typically correspond to the gender of their referents. However, when the referent is sex-indefinite, the pronoun is used in a generic sense, effectively generalizing gender onto a neutral subject. The most notable form of a generic pronoun sentence occurs when a pronoun’s referent is a sex-indefinite occupation. When a pronoun refers to an occupation rather than a sex-definite person (subject), it becomes generic.
 
@@ -50,7 +50,7 @@ Not Biased Example: “Jennie is a rapper; her voice is suited for rapping.”
 
 Subtle language choices that suggest a preference for one gender without explicitly naming it. In this instance we will be working mainly with words or sentences that have a strong stereotype associated with a gender in the context of work recruitment.
 
-### Gendered Stereotypical Terms {.unnumbered}
+### Gendered Stereotypical Terms {.unnumbered #gender-stereotypical-terms}
 
 This category covers the inclusion of words or short phrases in job advertisements that carry gender stereotypes. Studies demonstrate that such wording can affect applicants’ attitudes and choices depending on their gender (Gaucher et al, 2011). Since job ads use a formal style, these subtle signals are considered implicit bias.
 
@@ -69,7 +69,7 @@ Example: "Join our compassionate and supportive team.”
 
 ## Explicit Religion Bias
 
-### Religious Related Terms {.unnumbered}
+### Religious Related Terms {.unnumbered #religion-bias}
 
 Mentions of terms or groups directly and explicitly tied to a religion constitute a bias category in job advertisements, framing the text within a particular religious worldview. Such explicit references can immediately influence potential candidates according to their own beliefs. Although some mentions may be subtle, we treat any reference to a religion or belief system as a single bias class in job postings.
 
@@ -81,7 +81,7 @@ Example: "Only Christian candidates will be considered." Example: “In the chur
 
 ## Explicit Disability Bias
 
-### Disability Related Terms {.unnumbered}
+### Disability Related Terms {.unnumbered #disability-bias} 
 
 This category covers any words or phrases in job advertisements that reference disability—whether it’s explicit benefits (e.g., “disability insurance”) or non-discrimination clauses for candidates with impairments. Although most of these statements are intended as positive accommodations, they still influence how applicants with disabilities perceive and respond to the opportunity. Therefore, any mention of disability in a job posting is treated as a single bias class, since it can alter candidates’ behavior and expectations.
 
@@ -93,7 +93,7 @@ Examples: "Must be able-bodied; this role is not open to disabled candidates."
 
 ## Explicit Ethnicity Bias
 
-### Ethnicity Mentions {.unnumbered}
+### Ethnicity Mentions {.unnumbered #ethnicity-bias}
 
 This category covers any unambiguous mention of ethnicity in a job posting, whether in the company name, candidate requirements, or descriptive phrases. Such explicit ethnic references—like insisting on a specific nationality or calling out a particular heritage—can significantly influence who applies, so we define them as biased. While many attributes can signal ethnicity, this study focuses on two main types: nationality and other ethnic related terms. Keep in mind that any religious references should be classified under Explicit Religion Bias rather than here.
 
@@ -114,7 +114,7 @@ Example: "Only white applicants will be considered for this position." Example: 
 
 ## Explicit Age Bias
 
-### Age Mentions {.unnumbered}
+### Age Mentions {.unnumbered #age-explicit-bias}
 
 This category includes any direct or indirect reference to an applicant’s age group in a job advertisement. Whether it’s a clear requirement or a more subtle allusion, these mentions influence how candidates perceive their eligibility. Although specifying experience is often necessary, we mark every term or phrase that conditions applicant selection by age as explicit bias.
 
@@ -126,7 +126,7 @@ Examples: "Applicants over 50 need not apply.” "No recent graduates – we see
 
 ## Implicit Age Bias
 
-### Age Stereotypical Terms {.unnumbered}
+### Age Stereotypical Terms {.unnumbered #age-implicit-bias}
 
 This bias consists of any phrasing that relies on age stereotypes—such as endorsements of “digital natives” or appeals to “experienced professionals.” It can be woven into any part of the ad, from the company profile to linguistic choices in the benefits. Since it operates subtly through semantic nuance, it qualifies as implicit age bias. This is an implicit form of age bias, driven by meaning and context rather than clear-cut rules. We further subdivide this class into Young-Coded and Old-Coded language.
 

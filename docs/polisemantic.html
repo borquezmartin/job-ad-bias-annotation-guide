@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>2 Summary | Annotation Guidelines: Bias in Job Advertisement</title>
-  <meta name="description" content="2 Summary | Annotation Guidelines: Bias in Job Advertisement" />
+  <title>4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement</title>
+  <meta name="description" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   <meta name="generator" content="bookdown 0.41 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="2 Summary | Annotation Guidelines: Bias in Job Advertisement" />
+  <meta property="og:title" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   <meta property="og:type" content="book" />
   
   
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="2 Summary | Annotation Guidelines: Bias in Job Advertisement" />
+  <meta name="twitter:title" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   
   
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="type-of-biases.html"/>
+<link rel="prev" href="type-of-biases.html"/>
+<link rel="next" href="references.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -124,37 +124,13 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="summary" class="section level1 hasAnchor" number="2">
-<h1><span class="header-section-number">2</span> Summary<a href="summary.html#summary" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><strong>Task description</strong>: Annotators will review individual sentences drawn from real job advertisements, with each full ad available for context. For every sentence, they must identify and highlight any words or phrases that exhibit bias.</p>
-<p><strong>Labels</strong></p>
-<ul>
-<li><p>Gender Bias:
-<strong><a href="type-of-biases.html#gender-exclusionary-terms"><span style="color: #e93147;">Explicit Marking of Sex</span></a></strong>,
-<strong><a href="type-of-biases.html#gender-exclusionary-terms"><span style="color: #e9973f;">Gendered Neologism</span></a></strong>,
-<strong><a href="type-of-biases.html#generic-pronouns"><span style="color: #e0ac00;">Generic He</span></a></strong>,
-<strong><a href="type-of-biases.html#generic-pronouns"><span style="color: #ec7500;">Generic She</span></a></strong>,
-<strong><a href="type-of-biases.html#gender-stereotypical-terms"><span style="color: #08b94e;">Masculine Coded</span></a></strong>,
-<strong><a href="type-of-biases.html#gender-stereotypical-terms"><span style="color: #00bfbc;">Feminine Coded</span></a></strong>.</p></li>
-<li><p>Religion Bias:
-<strong><a href="type-of-biases.html#religion-bias"><span style="color: #086ddd;">Religion Related</span></a></strong>.</p></li>
-<li><p>Disability Bias:
-<strong><a href="type-of-biases.html#disability-bias"><span style="color: #7852ee;">Disability Related</span></a></strong>.</p></li>
-<li><p>Ethnicity Bias:
-<strong><a href="type-of-biases.html#ethnicity-bias"><span style="color: #d53984;">Nationality Related</span></a></strong>,
-<strong><a href="type-of-biases.html#ethnicity-bias"><span style="color: #fb464c;">Ethnic Related</span></a></strong>.</p></li>
-<li><p>Age Bias:
-<strong><a href="type-of-biases.html#age-explicit-bias"><span style="color: #e0de71;">Age Related</span></a></strong>,
-<strong><a href="type-of-biases.html#age-implicit-bias"><span style="color: #8be9fd;">Young Coded</span></a></strong>,
-<strong><a href="type-of-biases.html#age-implicit-bias"><span style="color: #ff79c6;">Old Coded</span></a></strong>.</p></li>
-<li><p><strong><a href="polisemantic.html#polisemantic"><span style="color: #a9a9a9;">Polisemantic</span></a></strong></p></li>
-</ul>
-<p><strong>Considerations</strong></p>
-<ul>
-<li><p>Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category and each word qualifies on its own—each must be annotated separately.</p></li>
-<li><p>The classes of bias are desing to not colide one with another</p></li>
-<li><p>There is a speciall class for polysemic words. Review in the respective section*</p></li>
-</ul>
+<div id="polisemantic" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Polisemantic Class<a href="polisemantic.html#polisemantic" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><strong>Context</strong></p>
+<p>Job advertisements are typically written in a formal register, where many terms exhibit polysemy—that is, they carry multiple senses, some of which may imply bias in other contexts while remaining neutral here. Because lexicon-based detectors lack the contextual awareness to distinguish these senses, they often overlook words that are harmless in a job ad but problematic elsewhere.</p>
+<p><strong>Definition</strong></p>
+<p>We define the <span style="color: #a9a9a9;"><strong>Polisemantic</strong></span> class as all words that function neutrally within a job advertisement yet could convey bias in a different setting. Annotators must flag every instance of such polysemous vocabulary—regardless of lexicon matches—and confirm its unbiased usage in context.</p>
+<p><strong>Example</strong></p>
 
 </div>
             </section>
@@ -162,8 +138,8 @@
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="type-of-biases.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="type-of-biases.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

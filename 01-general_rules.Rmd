@@ -9,25 +9,25 @@
 **[[Gendered Neologism]{style="color: #e9973f;"}](#gender-exclusionary-terms)**, 
 **[[Generic He]{style="color: #e0ac00;"}](#generic-pronouns)**,
 **[[Generic She]{style="color: #ec7500;"}](#generic-pronouns)**, 
-**[Masculine Coded]{style="color: #08b94e;"}**, 
-**[Feminine Coded]{style="color: #00bfbc;"}**.
+**[[Masculine Coded]{style="color: #08b94e;"}](#gender-stereotypical-terms)**, 
+**[[Feminine Coded]{style="color: #00bfbc;"}](#gender-stereotypical-terms)**.
 
 - Religion Bias:
-**[Religion Related]{style="color: #086ddd;"}**.
+**[[Religion Related]{style="color: #086ddd;"}](#religion-bias)**.
 
 - Disability Bias:
-**[Disability Related]{style="color: #7852ee;"}**.
+**[[Disability Related]{style="color: #7852ee;"}](#disability-bias)**.
 
 - Ethnicity Bias:
-**[Nationality Related]{style="color: #d53984;"}**, 
-**[Ethnic Related]{style="color: #fb464c;"}**.
+**[[Nationality Related]{style="color: #d53984;"}](#ethnicity-bias)**, 
+**[[Ethnic Related]{style="color: #fb464c;"}](#ethnicity-bias)**.
 
 - Age Bias:
-**[Age Related]{style="color: #e0de71;"}**, 
-**[Young Coded]{style="color: #8be9fd;"}**, 
-**[Old Coded]{style="color: #ff79c6;"}**.
+**[[Age Related]{style="color: #e0de71;"}](#age-explicit-bias)**, 
+**[[Young Coded]{style="color: #8be9fd;"}](#age-implicit-bias)**, 
+**[[Old Coded]{style="color: #ff79c6;"}](#age-implicit-bias)**.
 
-- **[Polisemantic]{style="color: #a9a9a9;"}**
+- **[[Polisemantic]{style="color: #a9a9a9;"}](#polisemantic)**
 
 **Considerations**
 

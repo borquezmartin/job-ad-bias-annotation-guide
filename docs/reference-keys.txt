@@ -11,3 +11,11 @@ implicit-age-bias
 polisemantic-class
 gender-exclusionary-terms
 generic-pronouns
+gender-stereotypical-terms
+religion-bias
+disability-bias
+ethnicity-bias
+age-explicit-bias
+age-implicit-bias
+polisemantic
+references
