@@ -4,7 +4,8 @@ rmd_files:
   - 01-general_rules.Rmd
   - 02-type_biases.Rmd
   - 03-polisemantic.Rmd
-  - 04-references.Rmd
+  - 04-examples.Rmd
+  - 05-references.Rmd
 book_filename: "annotation-guide"
 delete_merged_file: true
 language:

@@ -14,7 +14,7 @@ Exclusionary terms occur when a gender-neutral entity is described using gender-
 
 The use of explicit sex demarcations in job advertisements constitutes a form of Gender-Exclusive Occupational Terms bias. This category covers instances where an inherently gender-neutral role or occupation is described using a word that unambiguously denotes one gender. Such markings often appear at the word level and clearly signal a specific gender.
 
-![](images/example_explicit_marking.png) Examples: Chairman, Businessman, Manpower, Cameraman, stewardess.
+![](images/example_explicit_marking.png) 
 
 [**Gendered Neologism**]{style="color: #e9973f;"}
 
@@ -31,10 +31,6 @@ Pronouns typically correspond to the gender of their referents. However, when th
 Generic He refers to instances where a sex-indefinite role or description is associated with a male pronoun. This use often reflects implicit gender bias by defaulting to a male reference when the subject’s gender is not specified. Due to its dependence on context, this bias is assessed at the sentence level.
 
 ![](images/example_generic_he.png)
-
-Examples: “A programmer must carry his laptop with him to work.” “How often does a programmer update his skills?” “How do I tell if a pastor is turning his congregation into a cult?”
-
-Not Biased Example: “John, a programmer, always carries his laptop to work.”
 
 [**Generic She**]{style="color: #ec7500;"}
 
@@ -105,7 +101,7 @@ Not nationality related, but ethnic related: “European only”
 
 Any term or expression that evokes ethnic characteristics—consciously or unconsciously—apart from nationality. Examples include references to racial group, complexion, region of ancestral origin, or cultural lineage.
 
-Example: "Only white applicants will be considered for this position." Example: “Native english required” Example: “Asian only” Not ethnic related, but religion related:
+![](images/example_ethnic_related.png)
 
 ## Explicit Age Bias
 
