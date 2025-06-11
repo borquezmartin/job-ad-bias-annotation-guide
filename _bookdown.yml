@@ -1,12 +1,10 @@
-book_filename: "bookdownproj"
-output_dir: docs
-delete_merged_file: true
-edit: https://github.com/borquezmartin/job-ad-bias-annotation-guide/edit/main/%s
-view: https://github.com/borquezmartin/job-ad-bias-annotation-guide/blob/main/%s
+output_dir: docs               # Carpeta de salida final
 rmd_files:
   - index.Rmd
   - 01-general_rules.Rmd
   - 02-type_biases.Rmd
+book_filename: "annotation-guide"
+delete_merged_file: true
 language:
   ui:
-    chapter_name: ""
+    chapter_name: ""         # Quita el prefijo "Capítulo" si lo prefieres

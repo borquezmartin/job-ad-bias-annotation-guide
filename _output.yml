@@ -1,8 +1,14 @@
 bookdown::gitbook:
-  css: style.css
+  css: "style.css"
   config:
+    download: ["pdf"]        # ← must live here
     toc:
       before: |
         <li><a href="./">Annotation Guide</a></li>
       after: |
-        <li><a href="https://github.com/borquezmartin" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/borquezmartin" target="_blank">Source</a></li>
+
+bookdown::pdf_book:
+  latex_engine: xelatex
+  includes:
+    in_header: preamble.tex

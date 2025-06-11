@@ -1,15 +1,19 @@
 ---
 title: "Annotation Guidelines: Bias in Job Advertisement"
 author: "Martín Bórquez & Marcelo Mendoza"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+date: "June 2025"
+site: bookdown::bookdown_site      # <- necesario para gitbook
+
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
 ---
 
+# Introduction
 This guide provides instructions for annotators to identify and label different types of bias in job advertisements. Its objective is to produce a high-quality, consistent dataset that encompasses both explicit and implicit biases. Annotators should adhere to the definitions and examples in this guide to maintain uniformity throughout the dataset.
 
 This document defines and establishes the specific criteria for classifying various bias types in job advertisements. It supports the master’s thesis entitled “Detection and Classification of Bias in Job Advertisement Using Machine Learning”.
-
-# Introduction
 
 Job advertisement biases encompass any linguistic expressions within recruitment texts that can influence the perception of job opportunities based on characteristics such as gender, age, ethnicity, religion, or disability. These biases may manifest explicitly through overt statements (or group mentions) or implicitly via subtle language cues that, often unintentionally, favor or disadvantage certain groups.
 
