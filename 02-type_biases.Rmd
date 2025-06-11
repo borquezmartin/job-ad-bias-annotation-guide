@@ -94,8 +94,7 @@ This category covers any unambiguous mention of ethnicity in a job posting, whet
 
 Within the broader category of ethnic biases, we spotlight nationality bias because it frequently appears in job ads. Nationality bias includes any explicit reference to a specific nation, nationality, city, state, or province. However, references to continents or clusters of countries are excluded. Mentions of language are also not necessarily treated as nationality bias; their classification depends entirely on how they’re used.
 
-Example: “Only english people required” Not nationality related: “B2 English required”\
-Not nationality related, but ethnic related: “European only”
+![](images/example_nationality_related.png)
 
 [**Ethnic Related**]{style="color: #fb464c;"}
 
@@ -130,5 +129,3 @@ Examples: “Digital native,” “Ping-pong table included.”
 [**Old Coded**]{style="color: #ff79c6;"}
 
 This category encompasses phrases or wording that signal a preference for more mature candidates. Like Young-Coded terms, these expressions are designed to draw in a specific age group rather than to push others away. Be careful not to conflate general formality with Old-Coded bias (e.g., “decades of experience” vs. everyday professional tone).
-
-Examples:
