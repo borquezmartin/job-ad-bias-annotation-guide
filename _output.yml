@@ -1,0 +1,8 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Annotation Guide</a></li>
+      after: |
+        <li><a href="https://github.com/borquezmartin" target="blank">Published with bookdown</a></li>

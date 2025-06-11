@@ -1,0 +1,3 @@
+# General Rules
+
+Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category—and each word qualifies on its own—each must be annotated separately.

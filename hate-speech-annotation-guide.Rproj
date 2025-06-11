@@ -1,0 +1,18 @@
+Version: 1.0
+ProjectId: 04e8fa77-9a79-4004-9133-ced9161fe88f
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Website
+
+ProjectName: job-ad-bias-annotation-guide
