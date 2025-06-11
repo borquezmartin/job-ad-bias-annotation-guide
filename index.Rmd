@@ -11,6 +11,7 @@ output:
 ---
 
 # Introduction
+
 This guide provides instructions for annotators to identify and label different types of bias in job advertisements. Its objective is to produce a high-quality, consistent dataset that encompasses both explicit and implicit biases. Annotators should adhere to the definitions and examples in this guide to maintain uniformity throughout the dataset.
 
 This document defines and establishes the specific criteria for classifying various bias types in job advertisements. It supports the master’s thesis entitled “Detection and Classification of Bias in Job Advertisement Using Machine Learning”.

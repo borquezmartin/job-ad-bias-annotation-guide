@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Annotation Guidelines: Bias in Job Advertisement</title>
-  <meta name="description" content="Annotation Guidelines: Bias in Job Advertisement" />
+  <title>4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement</title>
+  <meta name="description" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   <meta name="generator" content="bookdown 0.41 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Annotation Guidelines: Bias in Job Advertisement" />
+  <meta property="og:title" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   <meta property="og:type" content="book" />
   
   
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Annotation Guidelines: Bias in Job Advertisement" />
+  <meta name="twitter:title" content="4 Polisemantic Class | Annotation Guidelines: Bias in Job Advertisement" />
   
   
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
+<link rel="prev" href="type-of-biases.html"/>
 
-<link rel="next" href="summary.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -123,23 +123,12 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Annotation Guidelines: Bias in Job Advertisement</h1>
-<p class="author"><em>Martín Bórquez &amp; Marcelo Mendoza</em></p>
-<p class="date"><em>June 2025</em></p>
-</div>
-<div id="introduction" class="section level1 hasAnchor" number="1">
-<h1><span class="header-section-number">1</span> Introduction<a href="index.html#introduction" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This guide provides instructions for annotators to identify and label different types of bias in job advertisements. Its objective is to produce a high-quality, consistent dataset that encompasses both explicit and implicit biases. Annotators should adhere to the definitions and examples in this guide to maintain uniformity throughout the dataset.</p>
-<p>This document defines and establishes the specific criteria for classifying various bias types in job advertisements. It supports the master’s thesis entitled “Detection and Classification of Bias in Job Advertisement Using Machine Learning”.</p>
-<p>Job advertisement biases encompass any linguistic expressions within recruitment texts that can influence the perception of job opportunities based on characteristics such as gender, age, ethnicity, religion, or disability. These biases may manifest explicitly through overt statements (or group mentions) or implicitly via subtle language cues that, often unintentionally, favor or disadvantage certain groups.</p>
-<p>This annotation guide is designed to create a <strong>token-level annotated corpus that captures both explicit and implicit biases in job advertisements</strong>. The resulting dataset will enhance Named Entity Recognition (NER) models, enabling them to detect nuanced bias signals that go beyond conventional keyword spotting. By annotating biases at both the word and span levels, this project aims to provide deeper insights into how specific lexical choices shape candidate perceptions and affect recruitment outcomes.</p>
-<p><strong>Annotation Process Overview</strong></p>
-<p>Prior to manual annotation, real job advertisements were processed using specialized lexicons to generate a word-level pre-annotation of bias. This pre-annotation covers 11 of the 13 identified bias categories but remains incomplete because it does not account for sentence structure or contextual meaning.</p>
-<p>A key contribution expected from human annotators is the ability to discern bias based on context and appropriate spans. To facilitate this, annotators will receive complete job ads and be asked to examine specific sentences within each ad, allowing them to evaluate language in its full context.</p>
-<p><img src="images/Task_Example-v2.png" /></p>
-<p>The items to be annotated will consist of individual words or contiguous word spans extracted from real job advertisements. These advertisements originate from a diverse dataset encompassing multiple countries and industries.</p>
-<p>In this work, bias is conceptualized as any language choice in a job advertisement that significantly affects its perception by individuals or groups, depending on their protected attributes. Such biases can either enhance or diminish the appeal or sense of belonging for the individual or group to a certain job. Other researchers address the idea that language-based biases can occur without overt or intentional discrimination, while some bias might discourage certain groups but not necessarily translate directly into illegal or explicit discriminatory practices (Heilman, 2012; Gaucher et al., 2011). Therefore, bias in this context can be unconscious and does not always imply discrimination, as their effect varies depending on the recipient and the specific circumstances of the bias.</p>
+<div id="polisemantic-class" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Polisemantic Class<a href="polisemantic-class.html#polisemantic-class" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><strong>Context</strong></p>
+<p>Job advertisements are typically written in a formal register, where many terms exhibit polysemy—that is, they carry multiple senses, some of which may imply bias in other contexts while remaining neutral here. Because lexicon-based detectors lack the contextual awareness to distinguish these senses, they often overlook words that are harmless in a job ad but problematic elsewhere.</p>
+<p><strong>Definition</strong></p>
+<p>We define the <span style="color: #a9a9a9;"><strong>Polisemantic</strong></span> class as all words that function neutrally within a job advertisement yet could convey bias in a different setting. Annotators must flag every instance of such polysemous vocabulary—regardless of lexicon matches—and confirm its unbiased usage in context.</p>
 
 </div>
             </section>
@@ -147,8 +136,8 @@
           </div>
         </div>
       </div>
+<a href="type-of-biases.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-<a href="summary.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

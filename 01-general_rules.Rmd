@@ -1,3 +1,38 @@
-# General Rules
+# Summary
 
-Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category—and each word qualifies on its own—each must be annotated separately.
+**Task description**: Annotators will review individual sentences drawn from real job advertisements, with each full ad available for context. For every sentence, they must identify and highlight any words or phrases that exhibit bias.
+
+**Labels**
+
+- Gender Bias:
+**[[Explicit Marking of Sex]{style="color: #e93147;"}](#gender-exclusionary-terms)**, 
+**[[Gendered Neologism]{style="color: #e9973f;"}](#gender-exclusionary-terms)**, 
+**[[Generic He]{style="color: #e0ac00;"}](#generic-pronouns)**,
+**[[Generic She]{style="color: #ec7500;"}](#generic-pronouns)**, 
+**[Masculine Coded]{style="color: #08b94e;"}**, 
+**[Feminine Coded]{style="color: #00bfbc;"}**.
+
+- Religion Bias:
+**[Religion Related]{style="color: #086ddd;"}**.
+
+- Disability Bias:
+**[Disability Related]{style="color: #7852ee;"}**.
+
+- Ethnicity Bias:
+**[Nationality Related]{style="color: #d53984;"}**, 
+**[Ethnic Related]{style="color: #fb464c;"}**.
+
+- Age Bias:
+**[Age Related]{style="color: #e0de71;"}**, 
+**[Young Coded]{style="color: #8be9fd;"}**, 
+**[Old Coded]{style="color: #ff79c6;"}**.
+
+- **[Polisemantic]{style="color: #a9a9a9;"}**
+
+**Considerations**
+
+-   Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category and each word qualifies on its own—each must be annotated separately.
+
+-   The classes of bias are desing to not colide one with another
+
+-   There is a speciall class for polysemic words. Review in the respective section\*
