@@ -14,7 +14,7 @@ Exclusionary terms occur when a gender-neutral entity is described using gender-
 
 The use of explicit sex demarcations in job advertisements constitutes a form of Gender-Exclusive Occupational Terms bias. This category covers instances where an inherently gender-neutral role or occupation is described using a word that unambiguously denotes one gender. Such markings often appear at the word level and clearly signal a specific gender.
 
-![](images/example_explicit_marking.png) 
+![](images/example_explicit_marking.png)
 
 [**Gendered Neologism**]{style="color: #e9973f;"}
 
@@ -70,7 +70,8 @@ Mentions of terms or groups directly and explicitly tied to a religion constitut
 
 Mentions of religion in job advertisements can take many forms—from explicit faith-based requirements to subtle nods toward religious institutions. Regardless of how overt or understated they may be, any word or phrase that references a religion, belief system, or religious organization belongs in this category.
 
-Example: "Only Christian candidates will be considered." Example: “In the church we are looking for an executive assistant”
+Example: "Only Christian candidates will be considered.", “In the church we are looking for an executive assistant”
+
 
 ## Explicit Disability Bias
 
@@ -124,7 +125,7 @@ This bias consists of any phrasing that relies on age stereotypes—such as endo
 
 This category covers any linguistic choice in a job ad that specifically appeals to a younger audience. These cues aren’t meant to exclude older applicants; they simply aim to attract younger talent.
 
-Examples: “Digital native,” “Ping-pong table included.”
+![](images/example_young_coded.png)
 
 [**Old Coded**]{style="color: #ff79c6;"}
 

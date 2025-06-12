@@ -1,6 +1,7 @@
 # Examples
 List of examples of every class and how they should be annotated.
 
+![](images/example_young_coded.png)
 ![](images/example_ethnic_related.png)
 ![](images/example_disability.png)
 ![](images/example_generic_he.png)
