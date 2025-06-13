@@ -31,8 +31,8 @@
 
 **Considerations**
 
+-   The bias categories are designed to be mutually exclusive and should not overlap.
+
+-   Please note that there is a dedicated category for polysemous terms—see the Polisemantic Class section for details [here](#polisemantic).
+
 -   Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category and each word qualifies on its own—each must be annotated separately.
-
--   The classes of bias are desing to not colide one with another
-
--   There is a speciall class for polysemic words. Review in the respective section\*
