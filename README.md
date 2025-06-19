@@ -1,6 +1,6 @@
 # Job Ads Bias Annotation Guide
 
-By Martín Bórquez & Marcelo Mendoza
+By Martín Bórquez
 
 This guide provides instructions for annotators to identify and label different types of bias in job advertisements. Its objective is to produce a high-quality, consistent dataset that encompasses both explicit and implicit biases. Annotators should adhere to the definitions and examples in this guide to maintain uniformity throughout the dataset.
 
