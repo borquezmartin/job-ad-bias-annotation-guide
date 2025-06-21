@@ -1,0 +1,9 @@
+# Others Class {#others}
+
+**Context**
+
+As part of this research, we carried out both theoretical and empirical analyses to uncover new types of bias in job advertisements. We recognize that additional or unexpected biases may surface—ones not addressed by the existing categories but appearing more frequently than anticipated. To accommodate these discoveries, we introduce a dedicated class that allows annotators to flag such cases for later review.
+
+**Definition**
+
+The Others class covers any bias or special case identified by annotators that does not fit within the predefined categories. This could include intersectional biases—when a term exhibits characteristics of more than one category (e.g. a mention botth Masculine-Coded and Young-Coded). Other cases could be sexual orientation or socioeconomic status, and any novel bias instances spotted during annotation that merit further investigation.

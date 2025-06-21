@@ -8,15 +8,7 @@ explicit-disability-bias
 explicit-ethnicity-bias
 explicit-age-bias
 implicit-age-bias
-polisemantic-class
-gender-exclusionary-terms
-generic-pronouns
-gender-stereotypical-terms
-religion-bias
-disability-bias
-ethnicity-bias
-age-explicit-bias
-age-implicit-bias
 polisemantic
-references
+others
 examples
+references

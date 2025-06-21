@@ -2,6 +2,9 @@
 
 **Task description**: Annotators will review individual sentences drawn from real job advertisements, with each full ad available for context. For every sentence, they must identify and highlight any words or phrases that exhibit bias.
 
+[Example GIF]!
+
+
 **Labels**
 
 - Gender Bias:
@@ -28,6 +31,8 @@
 **[[Old Coded]{style="color: #ff79c6;"}](#age-implicit-bias)**.
 
 - **[[Polisemantic]{style="color: #a9a9a9;"}](#polisemantic)**
+
+- **[[Others]{style="color: #d3d3d3"}](#others)**
 
 **Considerations**
 
