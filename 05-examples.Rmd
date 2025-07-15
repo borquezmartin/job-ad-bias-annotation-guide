@@ -2,8 +2,17 @@
 List of examples of every class and how they should be annotated.
 
 ![](images/example_young_coded.png)
-![](images/example_ethnic_related.png)
-![](images/example_disability.png)
-![](images/example_generic_he.png)
-![](images/example_explicit_marking.png) 
+![](images/Old-Coded.png)
+![](images/Age-Related.png)
+![](images/Ethnic-Related.png)
+![](images/Nationality-Related.png)
+![](images/Disability-Related.png)
+![](images/Religion-Related.png)
+![](images/Feminine-Coded.png)
 
+![](images/Masculine-Coded.png)
+![](images/Generic-She.png)
+![](images/Generic-He.png)
+![](images/Explicit-Marking.png)
+![](images/Polisemantic.png)
+![](images/Others.png)

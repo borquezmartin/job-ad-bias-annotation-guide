@@ -9,7 +9,7 @@ Job advertisements are typically written in a formal register, where many terms 
 
 We define the [**Polisemantic**]{style="color: #a9a9a9;"} class as all words that function neutrally within a job advertisement yet could convey bias in a different setting. Annotators must flag every instance of such polysemous vocabulary—regardless of lexicon matches—and confirm its unbiased usage in context.
 
-**Examples**
+![](images/Polisemantic.png)
 
 
 

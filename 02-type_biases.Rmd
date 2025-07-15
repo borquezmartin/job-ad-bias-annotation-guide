@@ -14,7 +14,7 @@ Exclusionary terms occur when a gender-neutral entity is described using gender-
 
 The use of explicit sex demarcations in job advertisements constitutes a form of Gender-Exclusive Occupational Terms bias. This category covers instances where an inherently gender-neutral role or occupation is described using a word that unambiguously denotes one gender. Such markings often appear at the word level and clearly signal a specific gender.
 
-![](images/example_explicit_marking.png)
+![](images/Explicit-Marking.png)
 
 [**Gendered Neologism**]{style="color: #e9973f;"}
 
@@ -30,15 +30,13 @@ Pronouns typically correspond to the gender of their referents. However, when th
 
 Generic He refers to instances where a sex-indefinite role or description is associated with a male pronoun. This use often reflects implicit gender bias by defaulting to a male reference when the subject’s gender is not specified. Due to its dependence on context, this bias is assessed at the sentence level.
 
-![](images/example_generic_he.png)
+![](images/Generic-He.png)
 
 [**Generic She**]{style="color: #ec7500;"}
 
 Generic She denotes instances where a sex-indefinite role or description is associated with a female pronoun. This usage may introduce bias by implying that a particular role should be associated with a female perspective when the role itself is gender-neutral. Like Generic He, this bias is evaluated within the context of the sentence.
 
-Example: “A nurse should ensure that she gets adequate rest.”
-
-Not Biased Example: “Jennie is a rapper; her voice is suited for rapping.”
+![](images/Generic-She.png)
 
 ## Implicit Gender Bias
 
@@ -48,17 +46,17 @@ Subtle language choices that suggest a preference for one gender without explici
 
 This category covers the inclusion of words or short phrases in job advertisements that carry gender stereotypes. Studies demonstrate that such wording can affect applicants’ attitudes and choices depending on their gender (Gaucher et al, 2011). Since job ads use a formal style, these subtle signals are considered implicit bias.
 
-[**Masculine Coded**]{style="color: #08b94e;"}
-
-Use of words associated with male stereotypes (e.g., "aggressive", "dominant") that subtly signal a male-oriented role or culture. Usually present at word level.
-
-Example: "Looking for an aggressive salesperson to dominate the market."
-
 [**Feminine Coded**]{style="color: #00bfbc;"}
 
-Use of words associated with female stereotypes (e.g., "supportive", "compassionate") that subtly signal a female-oriented role or environment. Usually present at word level.
+This type of bias refers to the use of words or language choices associated with female stereotypes, speccially those related to work enviroment. Some adjectives and subtle signs can influence in the pool of candidates of the job offer.
 
-Example: "Join our compassionate and supportive team.”
+![](images/Feminine-Coded.png)
+
+[**Masculine Coded**]{style="color: #08b94e;"}
+
+Use of words associated with male stereotypes (e.g., "aggressive", "dominant") that subtly signal a male-oriented role or culture.
+
+![](images/Masculine-Coded.png)
 
 ## Explicit Religion Bias
 
@@ -70,7 +68,7 @@ Mentions of terms or groups directly and explicitly tied to a religion constitut
 
 Mentions of religion in job advertisements can take many forms—from explicit faith-based requirements to subtle nods toward religious institutions. Regardless of how overt or understated they may be, any word or phrase that references a religion, belief system, or religious organization belongs in this category.
 
-Example: "Only Christian candidates will be considered.", “In the church we are looking for an executive assistant”
+![](images/Religion-Related.png)
 
 
 ## Explicit Disability Bias
@@ -83,7 +81,7 @@ This category covers any words or phrases in job advertisements that reference d
 
 Terms reflecting disability bias might be as brief as the word “disability” or as elaborate as outlining specific conditions. You can find this bias in any section of a job ad.
 
-![](images/example_disability.png)
+![](images/Disability-Related.png)
 
 ## Explicit Ethnicity Bias
 
@@ -95,13 +93,13 @@ This category covers any unambiguous mention of ethnicity in a job posting, whet
 
 Within the broader category of ethnic biases, we spotlight nationality bias because it frequently appears in job ads. Nationality bias includes any explicit reference to a specific nation, nationality, city, state, or province. However, references to continents or clusters of countries are excluded. Mentions of language are also not necessarily treated as nationality bias; their classification depends entirely on how they’re used.
 
-![](images/example_nationality_related.png)
+![](images/Nationality-Related.png)
 
 [**Ethnic Related**]{style="color: #fb464c;"}
 
 Any term or expression that evokes ethnic characteristics—consciously or unconsciously—apart from nationality. Examples include references to racial group, complexion, region of ancestral origin, or cultural lineage.
 
-![](images/example_ethnic_related.png)
+![](images/Ethnic-Related.png)
 
 ## Explicit Age Bias
 
@@ -113,7 +111,7 @@ This category includes any direct or indirect reference to an applicant’s age 
 
 In job advertisements, references to age can take many forms—ranging from explicit age requirements to subtle age cues woven into the job title or description.
 
-Examples: "Applicants over 50 need not apply.” "No recent graduates – we seek a seasoned professional."
+![](images/Age-Related.png)
 
 ## Implicit Age Bias
 
@@ -130,3 +128,5 @@ This category covers any linguistic choice in a job ad that specifically appeals
 [**Old Coded**]{style="color: #ff79c6;"}
 
 This category encompasses phrases or wording that signal a preference for more mature candidates. Like Young-Coded terms, these expressions are designed to draw in a specific age group rather than to push others away. Be careful not to conflate general formality with Old-Coded bias (e.g., “decades of experience” vs. everyday professional tone).
+
+![](images/Old-Coded.png)
