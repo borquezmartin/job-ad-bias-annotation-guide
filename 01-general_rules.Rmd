@@ -2,8 +2,6 @@
 
 **Task description**: Annotators will review individual sentences drawn from real job advertisements, with each full ad available for context. For every sentence, they must identify and highlight any words or phrases that exhibit bias.
 
-[Example GIF]!
-
 
 **Labels**
 
@@ -37,6 +35,8 @@
 **Considerations**
 
 -   The bias categories are designed to be mutually exclusive and should not overlap.
+
+-   As a general rule, annotators should highlight the longest continuous phrase that conveys the bias. For example, in the sentence “accommodation can be made for physical disability,” mark “physical disability” rather than just “disability.”
 
 -   Please note that there is a dedicated category for polysemous terms—see the Polisemantic Class section for details [here](#polisemantic).
 

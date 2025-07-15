@@ -30,6 +30,6 @@ A key contribution expected from human annotators is the ability to discern bias
 
 The items to be annotated will consist of individual words or contiguous word spans extracted from real job advertisements. These advertisements originate from a diverse dataset encompassing multiple countries and industries.
 
-![](images/Task_Example-v2.png)
+![](images/annotation_app.png)
 
 In this work, **bias is conceptualized as any language choice in a job advertisement that affects its perception by individuals or groups**, depending on their protected attributes. Such biases can either enhance or diminish the appeal or sense of belonging for the individual or group to a certain job. Other researchers address the idea that language-based biases can occur without overt or intentional discrimination, while some bias might discourage certain groups but not necessarily translate directly into illegal or explicit discriminatory practices (Heilman, 2012; Gaucher et al., 2011). Therefore, **bias in this context can be unconscious and does not always imply discrimination**, as their effect varies depending on the recipient and the specific circumstances of the bias.
