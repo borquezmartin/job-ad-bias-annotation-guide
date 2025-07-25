@@ -4,6 +4,37 @@ In this section there is the definition of every type of bias of this research.
 
 ![](images/Taxonomy-v9.jpg)
 
+## Implicit Age Bias
+
+### Age Stereotypical Terms {#age-implicit-bias .unnumbered}
+
+This bias consists of any phrasing that relies on age stereotypes—such as endorsements of “digital natives” or appeals to “experienced professionals.” It can be woven into any part of the ad, from the company profile to linguistic choices in the benefits. Since it operates subtly through semantic nuance, it qualifies as implicit age bias. This is an implicit form of age bias, driven by meaning and context rather than clear-cut rules. We further subdivide this class into Young-Coded and Old-Coded language.
+
+[**Young Coded**]{style="color: #8be9fd;"}
+
+This category covers any linguistic choice in a job ad that specifically appeals to a younger audience. These cues aren’t meant to exclude older applicants; they simply aim to attract younger talent.
+
+![](images/example_young_coded.png)
+
+[**Old Coded**]{style="color: #ff79c6;"}
+
+This category encompasses phrases or wording that signal a preference for more mature candidates. Like Young-Coded terms, these expressions are designed to draw in a specific age group rather than to push others away. Be careful not to conflate general formality with Old-Coded bias (e.g., “decades of experience” vs. everyday professional tone).
+
+![](images/Old-Coded.png)
+
+## Explicit Age Bias
+
+### Age Mentions {#age-explicit-bias .unnumbered}
+
+This category includes any direct or indirect reference to an applicant’s age group in a job advertisement. Whether it’s a clear requirement or a more subtle allusion, these mentions influence how candidates perceive their eligibility. Although specifying experience is often necessary, we mark every term or phrase that conditions applicant selection by age as explicit bias.
+
+[**Age Related**]{style="color: #e0de71;"}
+
+In job advertisements, references to age can take many forms—ranging from explicit age requirements to subtle age cues woven into the job title or description.
+
+![](images/Age-Related.png)
+
+
 ## Explicit Gender Bias {#gender-bias}
 
 ### Gender Exclusionary Terms {#gender-exclusionary-terms .unnumbered}
@@ -101,32 +132,6 @@ Any term or expression that evokes ethnic characteristics—consciously or uncon
 
 ![](images/Ethnic-Related.png)
 
-## Explicit Age Bias
 
-### Age Mentions {#age-explicit-bias .unnumbered}
 
-This category includes any direct or indirect reference to an applicant’s age group in a job advertisement. Whether it’s a clear requirement or a more subtle allusion, these mentions influence how candidates perceive their eligibility. Although specifying experience is often necessary, we mark every term or phrase that conditions applicant selection by age as explicit bias.
 
-[**Age Related**]{style="color: #e0de71;"}
-
-In job advertisements, references to age can take many forms—ranging from explicit age requirements to subtle age cues woven into the job title or description.
-
-![](images/Age-Related.png)
-
-## Implicit Age Bias
-
-### Age Stereotypical Terms {#age-implicit-bias .unnumbered}
-
-This bias consists of any phrasing that relies on age stereotypes—such as endorsements of “digital natives” or appeals to “experienced professionals.” It can be woven into any part of the ad, from the company profile to linguistic choices in the benefits. Since it operates subtly through semantic nuance, it qualifies as implicit age bias. This is an implicit form of age bias, driven by meaning and context rather than clear-cut rules. We further subdivide this class into Young-Coded and Old-Coded language.
-
-[**Young Coded**]{style="color: #8be9fd;"}
-
-This category covers any linguistic choice in a job ad that specifically appeals to a younger audience. These cues aren’t meant to exclude older applicants; they simply aim to attract younger talent.
-
-![](images/example_young_coded.png)
-
-[**Old Coded**]{style="color: #ff79c6;"}
-
-This category encompasses phrases or wording that signal a preference for more mature candidates. Like Young-Coded terms, these expressions are designed to draw in a specific age group rather than to push others away. Be careful not to conflate general formality with Old-Coded bias (e.g., “decades of experience” vs. everyday professional tone).
-
-![](images/Old-Coded.png)
