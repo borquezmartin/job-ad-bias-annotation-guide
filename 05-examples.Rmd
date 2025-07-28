@@ -2,8 +2,8 @@
 List of examples of every class and how they should be annotated.
 
 ![](images/example_young_coded.png)
-![](images/Old-Coded.png)
-![](images/Age-Related.png)
+![](images/Old_Coded.png)
+![](images/Age_Related.png)
 ![](images/Ethnic-Related.png)
 ![](images/Nationality-Related.png)
 ![](images/Disability-Related.png)

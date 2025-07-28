@@ -1,13 +1,13 @@
 introduction
 summary
 type-of-biases
+explicit-age-bias
+implicit-age-bias
+explicit-ethnicity-bias
 gender-bias
 implicit-gender-bias
 explicit-religion-bias
 explicit-disability-bias
-explicit-ethnicity-bias
-explicit-age-bias
-implicit-age-bias
 polisemantic
 others
 examples

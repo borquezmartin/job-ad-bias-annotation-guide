@@ -4,6 +4,19 @@ In this section there is the definition of every type of bias of this research.
 
 ![](images/Taxonomy-v9.jpg)
 
+## Explicit Age Bias
+
+### Age Mentions {#age-explicit-bias .unnumbered}
+
+This category includes any direct or indirect reference to an applicant’s age group in a job advertisement. Whether it’s a clear requirement or a more subtle allusion, these mentions influence how candidates perceive their eligibility. Although specifying experience is often necessary, we mark every term or phrase that conditions applicant selection by age as explicit bias.
+
+[**Age Related**]{style="color: #e0de71;"}
+
+In job advertisements, references to age can take many forms—ranging from explicit age requirements to subtle age cues woven into the job title or description.
+
+![](images/Age_Related.png)
+
+
 ## Implicit Age Bias
 
 ### Age Stereotypical Terms {#age-implicit-bias .unnumbered}
@@ -20,19 +33,25 @@ This category covers any linguistic choice in a job ad that specifically appeals
 
 This category encompasses phrases or wording that signal a preference for more mature candidates. Like Young-Coded terms, these expressions are designed to draw in a specific age group rather than to push others away. Be careful not to conflate general formality with Old-Coded bias (e.g., “decades of experience” vs. everyday professional tone).
 
-![](images/Old-Coded.png)
+![](images/Old_Coded.png)
 
-## Explicit Age Bias
+## Explicit Ethnicity Bias
 
-### Age Mentions {#age-explicit-bias .unnumbered}
+### Ethnicity Mentions {#ethnicity-bias .unnumbered}
 
-This category includes any direct or indirect reference to an applicant’s age group in a job advertisement. Whether it’s a clear requirement or a more subtle allusion, these mentions influence how candidates perceive their eligibility. Although specifying experience is often necessary, we mark every term or phrase that conditions applicant selection by age as explicit bias.
+This category covers any unambiguous mention of ethnicity in a job posting, whether in the company name, candidate requirements, or descriptive phrases. Such explicit ethnic references—like insisting on a specific nationality or calling out a particular heritage—can significantly influence who applies, so we define them as biased. While many attributes can signal ethnicity, this study focuses on two main types: nationality and other ethnic related terms. Keep in mind that any religious references should be classified under Explicit Religion Bias rather than here.
 
-[**Age Related**]{style="color: #e0de71;"}
+[**Nationality Related**]{style="color: #d53984;"}
 
-In job advertisements, references to age can take many forms—ranging from explicit age requirements to subtle age cues woven into the job title or description.
+Within the broader category of ethnic biases, we spotlight nationality bias because it frequently appears in job ads. Nationality bias includes any explicit reference to a specific nation, nationality, city, state, or province. However, references to continents or clusters of countries are excluded. Mentions of language are also not necessarily treated as nationality bias; their classification depends entirely on how they’re used.
 
-![](images/Age-Related.png)
+![](images/Nationality-Related.png)
+
+[**Ethnic Related**]{style="color: #fb464c;"}
+
+Any term or expression that evokes ethnic characteristics—consciously or unconsciously—apart from nationality. Examples include references to racial group, complexion, region of ancestral origin, or cultural lineage.
+
+![](images/Ethnic-Related.png)
 
 
 ## Explicit Gender Bias {#gender-bias}
@@ -113,25 +132,4 @@ This category covers any words or phrases in job advertisements that reference d
 Terms reflecting disability bias might be as brief as the word “disability” or as elaborate as outlining specific conditions. You can find this bias in any section of a job ad.
 
 ![](images/Disability-Related.png)
-
-## Explicit Ethnicity Bias
-
-### Ethnicity Mentions {#ethnicity-bias .unnumbered}
-
-This category covers any unambiguous mention of ethnicity in a job posting, whether in the company name, candidate requirements, or descriptive phrases. Such explicit ethnic references—like insisting on a specific nationality or calling out a particular heritage—can significantly influence who applies, so we define them as biased. While many attributes can signal ethnicity, this study focuses on two main types: nationality and other ethnic related terms. Keep in mind that any religious references should be classified under Explicit Religion Bias rather than here.
-
-[**Nationality Related**]{style="color: #d53984;"}
-
-Within the broader category of ethnic biases, we spotlight nationality bias because it frequently appears in job ads. Nationality bias includes any explicit reference to a specific nation, nationality, city, state, or province. However, references to continents or clusters of countries are excluded. Mentions of language are also not necessarily treated as nationality bias; their classification depends entirely on how they’re used.
-
-![](images/Nationality-Related.png)
-
-[**Ethnic Related**]{style="color: #fb464c;"}
-
-Any term or expression that evokes ethnic characteristics—consciously or unconsciously—apart from nationality. Examples include references to racial group, complexion, region of ancestral origin, or cultural lineage.
-
-![](images/Ethnic-Related.png)
-
-
-
 
