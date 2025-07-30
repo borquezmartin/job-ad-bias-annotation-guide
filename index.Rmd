@@ -20,7 +20,7 @@ This annotation guide is designed to create a **token-level annotated corpus tha
 
 **Annotation Process Overview**
 
-Prior to manual annotation, real job advertisements were processed using specialized lexicons to generate a word-level pre-annotation of bias. This pre-annotation covers 11 of the 13 identified bias categories but remains incomplete because it does not account for sentence structure or contextual meaning.
+Prior to manual annotation, real job advertisements were processed using specialized lexicons to generate a word-level pre-annotation of bias. This pre-annotation covers 11 of the 13 identified bias categories but remains incomplete because it does not account for sentence structure or contextual meaning. Notably, the categories "young coded" and "old coded" are not included in the pre-annotation; therefore, you will need to manually annotate instances of these two classes.
 
 ![](images/annotation_process.png)
 

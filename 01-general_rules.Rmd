@@ -42,3 +42,5 @@
 -   Please note that there is a dedicated category for polysemous terms—see the Polisemantic Class section for details [here](#polisemantic).
 
 -   Annotators should take care when tagging biased language that appears in close proximity. In other words, if a sentence contains two words of the same bias category and each word qualifies on its own—each must be annotated separately.
+
+- Remember, the categories "young coded" and "old coded" are not included in the pre-annotation; therefore, you will need to manually annotate instances of these two classes.
